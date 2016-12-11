@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f0b9ca46dce013a4f9a14b1f68d27ec4
+timeCreated: 1481422912
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Archeologicaps
+  fontNames:
+  - Archeologicaps
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

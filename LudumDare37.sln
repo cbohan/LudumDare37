@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LudumDare37", "LudumDare37.csproj", "{1EAE6D6F-B3FE-EE4D-A394-B558DB834BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LudumDare37.Editor", "LudumDare37.Editor.csproj", "{42033A17-3470-BF40-3913-BC9B5DA76C2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EAE6D6F-B3FE-EE4D-A394-B558DB834BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAE6D6F-B3FE-EE4D-A394-B558DB834BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAE6D6F-B3FE-EE4D-A394-B558DB834BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAE6D6F-B3FE-EE4D-A394-B558DB834BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42033A17-3470-BF40-3913-BC9B5DA76C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42033A17-3470-BF40-3913-BC9B5DA76C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42033A17-3470-BF40-3913-BC9B5DA76C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42033A17-3470-BF40-3913-BC9B5DA76C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
